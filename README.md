@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the Drupal.org contrib modules that I maintain and submit patches to many of the apps I use.
 - 📫 How to reach: I'm trying to set up a personal web page with a form that you will use to reach me, in the meantime, I'm around in the drupal.slack.com most of the time (check out for my full name).
 - 😄 Pronouns: What's this sorry?
-- ⚡ Fun fact: I'm catholic in process and I support the right to carry guns for self-defence (better safe than sorry!), I consider myself libertarian, but I also believe in the Laws of God.
+- ⚡ Fun fact: I'm catholic in heart, but I am also exploring my sephardic ancestors, I consider myself libertarian, but I also believe in the Laws of God.
 <!---
 danrod96-new/danrod96-new is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
